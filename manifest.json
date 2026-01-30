@@ -2,23 +2,23 @@
   "name": "小猪记账",
   "short_name": "小猪记账",
   "description": "可爱记账 - 小猪存钱罐，简单好用的个人记账应用",
-  "start_url": "./index.html",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#FFF5F7",
   "theme_color": "#FF6B9D",
   "orientation": "portrait",
-  "scope": "./",
+  "scope": "/",
   "icons": [
     {
-      "src": "https://api.iconify.design/flat-color-icons:piggy-bank.svg",
+      "src": "https://cdn-icons-png.flaticon.com/512/201/201623.png",
       "sizes": "192x192",
-      "type": "image/svg+xml",
+      "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://api.iconify.design/flat-color-icons:piggy-bank.svg",
+      "src": "https://cdn-icons-png.flaticon.com/512/201/201623.png",
       "sizes": "512x512",
-      "type": "image/svg+xml",
+      "type": "image/png",
       "purpose": "any maskable"
     }
   ],
@@ -26,3 +26,5 @@
   "lang": "zh-CN",
   "dir": "ltr"
 }
+
+
