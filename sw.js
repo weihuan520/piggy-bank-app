@@ -4,13 +4,13 @@ const CACHE_NAME = `piggy-bank-${CACHE_VERSION}`;
 
 // 需要缓存的资源
 const CACHE_URLS = [
-  './',
-  './index.html',
-  './style.css',
-  './app.js',
-  './manifest.json',
-  'https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap',
-  'https://api.iconify.design/flat-color-icons:piggy-bank.svg'
+  '/',
+  '/index.html',
+  '/style.css',
+  '/app.js',
+  '/manifest.json',
+  '/icon-192.png',
+  '/icon-512.png'
 ];
 
 // 安装 Service Worker
